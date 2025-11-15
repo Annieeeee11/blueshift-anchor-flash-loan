@@ -73,7 +73,6 @@ pub mod blueshift_anchor_flash_loan {
             borrowed_data.copy_from_slice(&borrow_ix.data[8..16]);
             amount_borrowed = u64::from_le_bytes(borrowed_data);
             require!(amount_borrowed > 0, ProtocolError::InvalidAmount);
-
         } else {
             return Err(ProtocolError::MissingBorrowIx.into());
         }
