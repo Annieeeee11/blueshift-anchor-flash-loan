@@ -1,6 +1,6 @@
 # Anchor Flash Loan
 
-This is a Solana Anchor program, a flash loan that lets users borrow tokens and repay them within the same transaction. I learned this from Blueshift, and I'm documenting what I learned along the way. (Blueshift challenge link)[https://learn.blueshift.gg/en/challenges/anchor-flash-loan]
+This is a Solana Anchor program, a flash loan that lets users borrow tokens and repay them within the same transaction. I learned this from Blueshift, and I'm documenting what I learned along the way. [Blueshift challenge link](https://learn.blueshift.gg/en/challenges/anchor-flash-loan)
 
 ## About
 
