@@ -1,4 +1,6 @@
 # Anchor Flash Loan
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff)](#)
 
 This is a Solana Anchor program, a flash loan that lets users borrow tokens and repay them within the same transaction. I learned this from Blueshift, and I'm documenting what I learned along the way. [Blueshift challenge link](https://learn.blueshift.gg/en/challenges/anchor-flash-loan)
 
